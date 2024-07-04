@@ -8,13 +8,12 @@
 .banner{
   height: 100vh;
   width: 100%;
-  background-image:linear-gradient(rgba(0,0,0,0.812), rgba(0,0,0,0.669)) ,url(/andrea-de-santis-zwd435-ewb4-unsplash.jpg);
+  background-image:linear-gradient(rgba(0,0,0,0.812), rgba(0,0,0,0.669)) ,url(/photos/mykyta-kravcenko-FqMcEX7eXjI-unsplash.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
   display: flex;
   align-items: center;
-}
 
 .content{
   margin: auto;
@@ -30,7 +29,7 @@
 }
 
 .content p{
-  font-size: 23px;
+  font-size: 19px;
   margin: 15px 0;
 }
 
